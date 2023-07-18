@@ -4,11 +4,11 @@
 
 ## Recruitment
 - flatpak
-  Debian / Ubuntu :
+  *Debian / Ubuntu* :
     ```bash
     sudo apt install flatpak
     ```
-  check : [for another variant](https://flathub.org/setup)
+  check : *[for another variant](https://flathub.org/setup)*
 
 ## Installation
 - Install [Hidamari](https://flathub.org/apps/io.github.jeffshee.Hidamari)
@@ -16,7 +16,7 @@
     flatpak install flathub io.github.jeffshee.Hidamari
     ```
 ## Run
-- Run [Hidamari](https://flathub.org/apps/io.github.jeffshee.Hidamari) via command Line
+- Run [Hidamari](https://flathub.org/apps/io.github.jeffshee.Hidamari) via *command Line*
     ```bash
     https://flathub.org/apps/io.github.jeffshee.Hidamari
     ```
@@ -33,4 +33,8 @@
     ```bash
     sudo cp /var/lib/flatpak/app/io.github.jeffshee.Hidamari/current/active/files/share/applications/io.github.jeffshee.Hidamari.desktop /usr/share/applications/ 
     ```
-    
+
+- The [Hidamari](https://flathub.org/apps/io.github.jeffshee.Hidamari) must be like this : 
+  ![](./.git-src/hidamari.png)
+  From here you know what you must to do!
+  Enjoy with your live wallpaper :)
