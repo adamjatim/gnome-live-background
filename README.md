@@ -38,3 +38,8 @@
   ![](./.git-src/hidamari.png)
   From here you know what you must to do!
   Enjoy with your live wallpaper :)
+
+  if you want a resource video like mine check on ```src/``` on this repository or click [this](https://raw.githubusercontent.com/adamjatim/gnome-video-background/main/src/Unreal_Engine_4_Environment_Bird_House.mp4)
+  original resource :
+  - <a href="https://youtu.be/4FDPlQZLMO8"><img src="./.git-src/youtube.png" alt="youtube" height="16"/> youtube</a>
+  - <a href="https://www.artstation.com/artwork/mDW6Yd"><img src="./.git-src/artstation.png" alt="drawing" height="16"/> artstation</a>
