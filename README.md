@@ -1,5 +1,4 @@
 # gnome-video-background
 
-<video src='https://raw.githubusercontent.com/adamjatim/gnome-video-background/main/.git-src/untitled.mp4' width=180/>
+[![Watch the video](./.git-src/untitled.gif)](https://youtu.be/WqTWoe4h3vM)
 
-[./.git-src/untitled.mp4](https://raw.githubusercontent.com/adamjatim/gnome-video-background/main/.git-src/untitled.mp4)
