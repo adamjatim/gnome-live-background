@@ -1,3 +1,3 @@
 # gnome-video-background
 
-[![video](./.git-src/image.png)](https://raw.githubusercontent.com/adamjatim/gnome-video-background/main/.git-src/untitled.mp4)
+[![Watch the video](https://img.youtube.com/vi/WqTWoe4h3vM/maxresdefault.jpg)](https://youtu.be/WqTWoe4h3vM)
